@@ -1,0 +1,5 @@
+"chat.disableAIFeatures": true,
+"workbench.secondarySideBar.defaultVisibility": "hidden",
+"github.copilot.enable": false,
+"github.copilot.inlineSuggest.enable": false,
+"chat.commandCenter.enabled": false
